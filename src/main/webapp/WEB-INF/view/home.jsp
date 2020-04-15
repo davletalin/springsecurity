@@ -1,3 +1,4 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <%--
   Created by IntelliJ IDEA.
   User: Armat
@@ -12,6 +13,7 @@
 </head>
 <body>
 Welcome to home page!!!
+
 
 
 
